@@ -1,0 +1,40 @@
+
+body {
+    background-color:#98CEF5;
+    margin: 0;
+}
+
+.biografi {
+border: 9px;
+color: rgb(156, 132, 65);
+background-color:#F5F5C9 ;
+margin-top: 200px;
+
+}
+
+.container {
+   width: 80%;
+   margin: 0 auto;
+}
+
+header {
+    border: 5px;
+    background-color: #A86968;
+    margin-top: 10;
+    padding: 20px;
+
+}   
+
+nav {
+    float: right;
+}
+
+nav ul {
+margin: 0;
+padding: 0;
+list-style: none;
+}
+
+nav li {
+    display: inline block;
+}
